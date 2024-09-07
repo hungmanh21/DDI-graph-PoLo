@@ -1,4 +1,4 @@
-input_dir="datasets/HetionetDB-1/"
+input_dir="/kaggle/input/polo-datasets/Hetionet-DB-DB"
 base_output_dir="output/HetionetDB-1/"
 total_iterations=1000
 eval_every=10
