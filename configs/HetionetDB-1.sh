@@ -1,5 +1,5 @@
-input_dir="/kaggle/input/polo-datasets/Hetionet-DB-DB/"
-base_output_dir="output/HetionetDB-1/"
+input_dir="/kaggle/input/polo-datasets/Hetionet-5rl/Hetionet-5rl"
+base_output_dir="output/HetionetDB-5rl/"
 total_iterations=1000
 eval_every=10
 patience=2
